@@ -30,7 +30,7 @@
 
 10. Перевірка, чи введена довжина пароля дорівнює нулю, і виведення повідомлення про помилку, якщо так.
 
-    ![6](6.png)
+    ![6](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/6.png)
 
 12. Створення згенерованого пароля заданої користувачем довжини, вибираючи випадкові символи з рядка 'password'.
 
