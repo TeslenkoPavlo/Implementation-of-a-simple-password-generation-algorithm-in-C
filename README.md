@@ -38,7 +38,7 @@
 
 14. Виведення згенерованого пароля на екран.
 
-    ![8](8.png)
+    ![8](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/8.png)
 
 16. Успішне завершення програми.
 
