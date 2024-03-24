@@ -54,17 +54,30 @@
 
    ![9](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/8.png)
    
-3. Оголошується змінна C типу char і рядок password1.
-![10](10.png)
-4. Цикл do-while, який повторюється, поки введений користувачем пароль password1 не буде рівний genpassword.
-![11](11.png)
-5. Очищення рядка password1, щоб попередні введення не зберігалися.
-![12](12.png)
-6. Виведення повідомлення, що просить користувача ввести пароль.
-![13](13.png)
-7.  Використання цикла while, щоб продовжувати зчитування символів, доки не буде введено символ з ASCII-кодом 13 (відповідає клавіші Enter). Кожен символ, який не є Enter, додається до рядка паролю (password1) і виводиться на екран у вигляді зірочки.
-![14](14.png)
-8. Виконується перевірка, чи введений пароль (password1) співпадає зі згенерованим паролем (genpassword). Якщо пароль невірний, виводиться відповідне повідомлення про помилку, разом з правильним паролем для зручності користувача. Після цього змінна C ініціалізується пробілом, щоб очистити її значення.
-![15](15.png)
-9. Перші два рядки виводять порожні рядки для створення простору між повідомленнями. Наступні два рядки виводять повідомлення про те, що пароль введено правильно, та сам пароль, який було введено.
-![16](16.png)
+2. Оголошується змінна C типу char і рядок password1.
+
+   ![10](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/10.png)
+   
+3. Цикл do-while, який повторюється, поки введений користувачем пароль password1 не буде рівний genpassword.
+
+   ![11](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/11.png)
+   
+4. Очищення рядка password1, щоб попередні введення не зберігалися.
+
+   ![12](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/12.png)
+   
+5. Виведення повідомлення, що просить користувача ввести пароль.
+
+   ![13](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/13.png)
+   
+6.  Використання цикла while, щоб продовжувати зчитування символів, доки не буде введено символ з ASCII-кодом 13 (відповідає клавіші Enter). Кожен символ, який не є Enter, додається до рядка паролю (password1) і виводиться на екран у вигляді зірочки.
+      
+      ![14](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/14.png)
+7. Виконується перевірка, чи введений пароль (password1) співпадає зі згенерованим паролем (genpassword). Якщо пароль невірний, виводиться відповідне повідомлення про помилку, разом з правильним паролем для зручності користувача. Після цього змінна C ініціалізується пробілом, щоб очистити її значення.
+
+    ![15](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/15.png)
+    
+8. Перші два рядки виводять порожні рядки для створення простору між повідомленнями. Наступні два рядки виводять повідомлення про те, що пароль введено правильно, та сам пароль, який було введено.
+
+    ![16](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/16.png)
+    
