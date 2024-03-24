@@ -34,7 +34,7 @@
 
 12. Створення згенерованого пароля заданої користувачем довжини, вибираючи випадкові символи з рядка 'password'.
 
-    ![7](7.png)
+    ![7](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/7.png)
 
 14. Виведення згенерованого пароля на екран.
 
