@@ -18,7 +18,7 @@
    
 5. Запит для користувача ввести бажану довжину пароля та зчитує введення у змінну 'length'.
 
-   ![3](3.png)
+   ![3](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/3.png)
 
 7. Створення рядка для зберігання всіх можливих символів пароля, починаючи з символу з кодом 33 ('!') і закінчуючи символом з кодом 126 ('~') у таблиці ASCII.
 
