@@ -42,4 +42,4 @@
 
 16. Успішне завершення програми.
 
-    ![9](9.png)
+    ![9](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/9.png)
