@@ -40,6 +40,3 @@
 
     ![8](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/8.png)
 
-9. Успішне завершення програми.
-
-    ![9](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/9.png)
