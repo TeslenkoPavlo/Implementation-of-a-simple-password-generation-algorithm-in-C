@@ -10,7 +10,7 @@
 
 1. Установка локалізації для виведення кириличних символів.
 
-   ![1](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/1.png)
+   ![1](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/1.1.png)
 
 2. Ініціалізація генератора випадкових чисел поточним часом, щоб забезпечити генерацію різних випадкових чисел кожен раз при запуску програми.
 
