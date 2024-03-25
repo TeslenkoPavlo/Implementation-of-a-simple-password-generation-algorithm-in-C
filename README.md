@@ -52,7 +52,7 @@
 
 1. Виводиться рядок "Перевірка пароля" на екран.
 
-   ![9](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/8.png)
+   ![9](https://github.com/TeslenkoPavlo/Implementation-of-a-simple-password-generation-algorithm-in-C/blob/main/PNG/9.png)
    
 2. Оголошується змінна C типу char і рядок password1.
 
